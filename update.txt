@@ -1,2 +1,2 @@
-2.2.4
-https://github.com/horilose/agnes-updates/releases/download/v.2.2.4/Agnes_Setup.exe
+2.2.5
+https://github.com/horilose/agnes-updates/releases/download/v.2.2.5/Agnes_Setup.exe
